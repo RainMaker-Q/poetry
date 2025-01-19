@@ -15,5 +15,5 @@
 
 做了个后台，管理下数据，后面调整个H5承接页，随机一首诗，也可以接入到每日一句中。
 
-![列表]('https://github.com/RainMaker-Q/picture/blob/master/poetry_list.jpg?raw=true')
-![详情]('https://github.com/RainMaker-Q/picture/blob/master/poetry_detail.jpg?raw=true')
+![列表](https://github.com/RainMaker-Q/picture/blob/master/poetry_list.jpg?raw=true)
+![详情](https://github.com/RainMaker-Q/picture/blob/master/poetry_detail.jpg?raw=true)
