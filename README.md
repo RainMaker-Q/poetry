@@ -12,3 +12,8 @@
 ## 数据内容
 整理了每一章的页面链接，和数据内容，还拆分了结构。需要自取。
 有一些数据不太干净，后面再完善写。
+
+做了个后台，管理下数据，后面调整个H5承接页，随机一首诗，也可以接入到每日一句中。
+
+![列表]('https://github.com/RainMaker-Q/picture/blob/master/poetry_list.jpg?raw=true')
+![详情]('https://github.com/RainMaker-Q/picture/blob/master/poetry_detail.jpg?raw=true')
